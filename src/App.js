@@ -1,3 +1,5 @@
+// dsgsdfhgfhfgshgfshsfgh
+
 import React, { Component } from 'react';
 import './App.css';
 import Movie from './Movie'; //Movie.js에서 export했으니까 여기서 import해서 사용!
