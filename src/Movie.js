@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import PropTypes from 'prop-types';
 import './Movie.css';
-
+vsddf
 class Movie extends Component {
 
  //해당 props에 원하는 값만 출력하도록 설정
