@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/movie_app/static/css/main.b41b6c72.chunk.css",
+    "main.js": "/movie_app/static/js/main.0df5342f.chunk.js",
+    "main.js.map": "/movie_app/static/js/main.0df5342f.chunk.js.map",
+    "runtime-main.js": "/movie_app/static/js/runtime-main.e93df416.js",
+    "runtime-main.js.map": "/movie_app/static/js/runtime-main.e93df416.js.map",
+    "static/js/2.978fb629.chunk.js": "/movie_app/static/js/2.978fb629.chunk.js",
+    "static/js/2.978fb629.chunk.js.map": "/movie_app/static/js/2.978fb629.chunk.js.map",
+    "static/js/3.b4674d05.chunk.js": "/movie_app/static/js/3.b4674d05.chunk.js",
+    "static/js/3.b4674d05.chunk.js.map": "/movie_app/static/js/3.b4674d05.chunk.js.map",
+    "index.html": "/movie_app/index.html",
+    "static/css/main.b41b6c72.chunk.css.map": "/movie_app/static/css/main.b41b6c72.chunk.css.map",
+    "static/js/2.978fb629.chunk.js.LICENSE.txt": "/movie_app/static/js/2.978fb629.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/movie_app/static/media/NotoSansKR-Regular.e95adf0e.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e93df416.js",
+    "static/js/2.978fb629.chunk.js",
+    "static/css/main.b41b6c72.chunk.css",
+    "static/js/main.0df5342f.chunk.js"
+  ]
+}
